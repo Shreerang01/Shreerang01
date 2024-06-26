@@ -3,9 +3,6 @@
   <img alt="Shreerang Mhatre" src="https://github.com/Shreerang01/Shreerang01/assets/113919844/05b8c2d5-8cf2-43cc-80d6-1a9454449838" style="width:100%; max-height:200px;" loading="lazy">
 </div>
 
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
 # 💫 About me:
 🔭 Senior at MITWPU, Pune, India<br>🌱 I’m currently learning Computer Vision and Cloud Computing<br>💬 Ask me about Data Analysis and Powerbi<br>📫 Reach me shreerangmhatre@gmail.com<br>🤝  I'm open to collaborating on intresting projects<br>⚡ Fun fact I do calligraphy as a freetime gig
 
